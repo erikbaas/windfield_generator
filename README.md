@@ -1,4 +1,4 @@
-3D Wind field generator.
+# 3D Wind field generator.
 
 Superimposes Dryden gusts for low altitudes on top of a constant wind velocity, to create realistic wind field.
 The user is asked the following:
